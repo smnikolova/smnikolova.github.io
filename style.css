@@ -11,37 +11,6 @@ p {
   font-size: 15px;
   }
 
-section.about {
-  overflow: hidden;
-  background: url('images/Bblue.bmp');
-  }
-
-section.about h2 {
-  text-align: center;
-  }
-
-section.favourites {
-  text-align: center;
-  background-color: #6AA3EA;
-  }
-
-section.contact {
-  text-align: center;
-  background: url('images/Bblue.bmp');
-  }
-
-section.contact img {
-  margin: 20px;
-  }
-
-section.box {
-  padding: 50px 100px;
-  }
-
-section.box h2, section.box h3 {
-  color: #310053;
-  }
-
 .menu {
   list-style: none;
   padding: 0;
