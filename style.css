@@ -1,6 +1,6 @@
 body {      
   color: #444444;
-  font-family: "Courier New", Courier, monospace;
+  font-family: "Book Antiqua", Palatino, "Palatino Linotype", "Palatino LT STD", Georgia, serif;
   }
 
 h1 {
@@ -34,5 +34,5 @@ p {
   color: #333333;
   font-weight: bold;
   text-transform: uppercase;
-  font-family: 'Oswald', sans-serif;
+  font-family: "Book Antiqua", Palatino, "Palatino Linotype", "Palatino LT STD", Georgia, serif;
   }
