@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<ul class ="menu">
+  <li><a href="index.html">About Me</a> </li>
+  <li><a href="mentorship.html">Mentorship Program</a></li>
+  <li><a href="projects.html">Projects</a></li>
+</ul>
+
+<h1> Mentorship Program</h1>
+<p> I am very interested in the mentorship program. It was really hard to choose what to enroll in (I wish we could enroll in muliple sessions!), but at the end I chose to to do Java. I am really looking forward to bettering my Java skills and participating in a group project </p>  
+
