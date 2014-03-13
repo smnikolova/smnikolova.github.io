@@ -11,7 +11,7 @@ body {
 	font-family: "Big Caslon", "Book Antiqua", "Palatino Linotype", Georgia, serif;
 }
 .gfx a {
-	background: #F5F5F5 url('images/robot.jpg') no-repeat; display: block; height: 330px; width:620px;
+	background: #F5F5F5 url('images/robot.jpg') no-repeat; display: block; height: 330px; width:600px;
 }
 
 /* header */
@@ -43,7 +43,7 @@ body {
 	color: #888;
 	float: left;
 	padding-top: 4px;
-	width: 210px; height: 36px;
+	width: 175px; height: 36px;
 }
 .menu a span {
 	padding-left: 6px;
