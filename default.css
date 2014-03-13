@@ -7,7 +7,8 @@ body {
 	color: #333;
 	margin: 20px 0;
 	text-align: center;
-	font: normal 0.9em sans-serif,Arial;
+	/*font: normal 0.9em sans-serif,Arial;*/
+	font-family: "Big Caslon", "Book Antiqua", "Palatino Linotype", Georgia, serif;
 }
 .gfx a {
 	background: #F5F5F5 url('images/robot.jpg') no-repeat; display: block; height: 330px;
