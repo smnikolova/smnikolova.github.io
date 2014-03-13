@@ -75,16 +75,6 @@ body {
 	padding: 10px;
 }
 
-/* footer */
-.footer {
-	padding: 5px;
-	background: #F5F5F5;
-	color: #666;
-}
-.footer .left, .footer .right {padding: 0 12px;}
-.footer .right, .footer .right a {color: #AAA;}
-.footer .right a:hover {color: #444;}
-
 /* floats */
 .left {float: left;}
 .right {float: right;}
