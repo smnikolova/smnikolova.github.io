@@ -83,7 +83,7 @@ body {
 
 .about {
 	overflow:hidden;
-	background: $FCFCFC url('images/robot4.jpg);
+	background: #FCFCFC url('images/robot4.jpg);
 }
 }
 /* ordered and unordered lists */
