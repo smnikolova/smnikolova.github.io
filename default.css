@@ -81,6 +81,11 @@ body {
 	padding: 10px;
 }
 
+.about {
+	overflow:hidden;
+	background: $FCFCFC url('images/robot4.jpg);
+}
+}
 /* ordered and unordered lists */
 .ul a {
 	margin: 3px 0 6px; color: #666;
