@@ -82,7 +82,7 @@ body {
 }
 
 .about {
-	background: #FCFCFC url('images/robot4.jpg);
+	background-image: url('images/robot4.jpg);
 	padding: 10px;
 }
 
