@@ -8,7 +8,8 @@ body {
 	margin: 20px 0;
 	text-align: center;
 	font: normal 0.9em serif,Georgia;
-	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	/*font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;*/
+	font-family: "Lucida Sans Typewriter", "Lucida Console", Monaco, "Bitstream Vera Sans Mono", monospace;
 }
 .gfx a {
 	background: #F5F5F5 url('images/robot.jpg') no-repeat; display: block;height:330px; width:600;
