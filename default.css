@@ -83,6 +83,7 @@ body {
 
 /* ordered and unordered lists */
 .ul a {
+	margin: 3px 0 6px; color: #666;
 	list-style-type:circle;
 }
 
