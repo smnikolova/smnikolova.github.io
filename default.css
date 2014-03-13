@@ -65,7 +65,12 @@ body {
 }
 .content h1 {
 	margin: 0;
-	font: bold 1.1em serif,Georgia;
+	font: bold 1.5em serif,Georgia;
+	color: #666;
+}
+.content h2 {
+	margin: 0;
+	font: bold 1.1em serif, Georgia;
 	color: #666;
 }
 .content p {
