@@ -81,6 +81,15 @@ body {
 	padding: 10px;
 }
 
+/* ordered and unordered lists */
+.ul a {
+	list-style-type:circle;
+}
+
+.ol a {
+	list-style-type:upper-roman;
+}
+
 /* floats */
 .left {float: left;}
 .right {float: right;}
