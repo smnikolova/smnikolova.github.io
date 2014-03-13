@@ -11,7 +11,7 @@ body {
 	font-family: "Big Caslon", "Book Antiqua", "Palatino Linotype", Georgia, serif;
 }
 .gfx a {
-	background: #F5F5F5 url('images/robot.jpg') no-repeat; display: block;height:330px; width:600;
+	background: #F5F5F5 url('images/robot.jpg') no-repeat; display: block;height:330px; max-width:620;
 }
 
 /* header */
