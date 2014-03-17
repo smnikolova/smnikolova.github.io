@@ -2,15 +2,15 @@ a {
 	color: #000;
 	text-decoration: none;
 }
+/* body */
 body {
 	background: #CCC url('images/bg.gif') repeat-y fixed bottom center;
 	color: #333;
 	margin: 20px 0;
 	text-align: center;
-	font: normal 0.9em serif,Georgia;
-	/*font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;*/
-	font-family: "Lucida Sans Typewriter", "Lucida Console", Monaco, "Bitstream Vera Sans Mono", monospace;
+	font-family: 'Fanwood Text', 1.5em serif;
 }
+/* robot graphic */
 .gfx a {
 	background: #F5F5F5 url('images/robot.jpg') no-repeat; display: block;height:330px; width:600;
 }
@@ -45,13 +45,11 @@ body {
 	float: left;
 	padding-top: 3px;
 	width: 199px; height: 36px;
-	/*font:100 20px/0.8 'Cookie', Helvetica, sans-serif;
- 	text-shadow: 4px 4px 3px rgba(0,0,0,0.1); */
-	font-family: 'Montez', cursive;
-	font-size: 125%;
+	font-family: 'Fanwood Text', serif;
+	font-size: 150%;
+	text-align:center;
 }
 
-}
 .menu a span {
 	padding-left: 6px;
 }
@@ -71,39 +69,43 @@ body {
 	clear: both;
 }
 .content h1 {
-	margin: 0;
-	/*font: bold 1.5em serif,Georgia;*/
+	margin: 5px;
 	color: #666;
 	font: 100 30px/0.8 'Cookie', Helvetica, sans-serif;
  	text-shadow: 4px 4px 3px rgba(0,0,0,0.1); 
 }
 .content h2 {
-	margin: 0;
-	font: bold 1.1em serif, Georgia;
+	margin: 5px;
+	font: 100 25px/0.8 'Cookie', Helvetica, sans-serif;
 	color: #666;
 }
 .content p {
-	margin: 3px 0 6px; color: #666;
+	margin: 3px 10px 6px; color: #666;
 }
-.item {
-	background: #FCFCFC url('images/bgitem.gif') repeat-x;
-	/*background: #FCFCFC url('images/robot4.jpg') repeat-x;*/
-	padding: 10px;
-}
-
-
 
 /* ordered and unordered lists */
-.ul a {
+ul {
 	margin: 3px 0 6px; color: #666;
 	list-style-type:circle;
-	font-family: "Lucida Sans Typewriter", "Lucida Console", Monaco, "Bitstream Vera Sans Mono", monospace;
+	font-family: 'Fanwood Text', 1.1em serif;
 }
 
-.ol a {
+ol {
+	margin: 3px 0 6px; color: #666;
 	list-style-type:upper-roman;
-	font-family: "Lucida Sans Typewriter", "Lucida Console", Monaco, "Bitstream Vera Sans Mono", monospace;
+	font-family: 'Fanwood Text', 1.1em serif;
 }
+/* footer */
+.footer {
+	padding: 5px;
+	background: #F5F5F5;
+	color: #666;
+	font-family: 'Fanwood Text', 1.1em serif;
+	font-size:50%;
+}
+.footer .left, .footer .right {padding: 0 5px;}
+.footer .right, .footer .right a {color: #AAA;}
+.footer .right a:hover {color: #444;}
 
 /* floats */
 .left {float: left;}
